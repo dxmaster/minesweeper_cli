@@ -1,0 +1,21 @@
+{
+    "name": "dxmaster/minesweeper",
+    "description": "Minesweeper console game",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alexander Kulizhnikov",
+            "email": "a.kulizhnikov@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Minesweeper\\": "src/"}
+    },
+    "require": {
+        "php": "^7.1.3",
+        "symfony/console": "v4.3.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    }
+}
