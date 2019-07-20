@@ -1,6 +1,6 @@
 <?php
 
-namespace Command;
+namespace Minesweeper\Tests\Command;
 
 use Minesweeper\Command\MinesweeperCommand;
 use Symfony\Component\Console\Application;

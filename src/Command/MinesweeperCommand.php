@@ -382,7 +382,7 @@ final class MinesweeperCommand extends Command
 
     /**
      * Get number of mines
-     * 
+     *
      * @return int
      */
     public function getMines(): int
@@ -392,7 +392,7 @@ final class MinesweeperCommand extends Command
 
     /**
      * Get game status
-     * 
+     *
      * @return bool
      */
     public function isGameOver(): bool
