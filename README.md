@@ -4,14 +4,14 @@ This console application is based on Symfony Console component
 
 ### Installing
 ```
-cd some_dir/
 git clone https://github.com/dxmaster/minesweeper_cli
+cd minesweeper_cli
 composer install
 ```
 
 ### Running
 ```
-cd some_dir/
+cd minesweeper_cli/
 php minesweeper.php
 ```
 
